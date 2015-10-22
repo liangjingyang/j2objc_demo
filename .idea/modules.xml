@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/lib/iosbinding/iosbinding.iml" filepath="$PROJECT_DIR$/lib/iosbinding/iosbinding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/j2objc_demo.iml" filepath="$PROJECT_DIR$/j2objc_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/j2objc_demo.droid/j2objc_demo.droid.iml" filepath="$PROJECT_DIR$/j2objc_demo.droid/j2objc_demo.droid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/j2objc_demo.ios/j2objc_demo.ios.iml" filepath="$PROJECT_DIR$/j2objc_demo.ios/j2objc_demo.ios.iml" />
+    </modules>
+  </component>
+</project>

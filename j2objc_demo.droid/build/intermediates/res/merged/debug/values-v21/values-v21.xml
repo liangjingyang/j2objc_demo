@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/simple/data/sellegit/j2objc_demo/j2objc_demo.droid/src/main/res/values-v21/styles.xml -->
+    <eat-comment/>
+    <style name="AppTheme" parent="android:Theme.Holo.Light.NoActionBar.Fullscreen">
+    </style>
+</resources>

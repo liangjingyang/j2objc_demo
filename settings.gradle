@@ -1,0 +1,4 @@
+include ':j2objc_demo.ios', ':iosbinding', ':j2objc_demo.droid'
+
+project(':iosbinding').projectDir = new File('lib//iosbinding')
+
